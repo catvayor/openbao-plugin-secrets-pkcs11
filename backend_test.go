@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/hashicorp/vault/sdk/logical"
+	"github.com/openbao/openbao/sdk/v2/logical"
 
 	hclog "github.com/hashicorp/go-hclog"
 )

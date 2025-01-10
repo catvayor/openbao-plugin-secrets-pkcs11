@@ -6,9 +6,8 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/hashicorp/errwrap"
-	"github.com/hashicorp/vault/sdk/logical"
+	"github.com/openbao/openbao/sdk/v2/logical"
 
-	//"github.com/hashicorp/vault/sdk/logical"
 	//"google.golang.org/api/option"
 	"github.com/miekg/pkcs11"
 )
