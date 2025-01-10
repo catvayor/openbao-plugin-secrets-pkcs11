@@ -31,6 +31,7 @@ deps:
 
 # dev builds and installs the plugin for local development
 dev:
+	@mkdir -p plugins
 	@env \
 		CGO_ENABLED=1 \
 		go install \
